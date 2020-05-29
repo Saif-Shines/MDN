@@ -1,5 +1,19 @@
+/* The box-sizing css property will combine element's padding and border */
+* {
+  box-sizing: border-box;
+}
 
-.paper-title{
-  color:grey;
+.paper-title {
+  display: flex;
+  color: #2e2a2a;
+  font-family: "Pacifico", cursive;
+  justify-content: center;
+  border-bottom: purple;
+}
 
+.section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: red;
 }
