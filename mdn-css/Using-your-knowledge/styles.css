@@ -1,0 +1,31 @@
+body{
+  margin: 20px 300px 20px 300px;
+}
+
+h1 {
+  color: hotpink;
+  border-bottom: 10px dotted purple;
+}
+
+section h2 {
+  font-family: cursive;
+}
+
+section h3{
+  font-family: helvetica;
+  color: #9b9e9d;
+}
+
+article{
+  font-family: helvetica;
+}
+
+ul {
+  background-color: #eeeeee;
+  border: solid;
+  padding:20px;
+}
+
+li a:hover{
+  text-decoration: none;
+}
